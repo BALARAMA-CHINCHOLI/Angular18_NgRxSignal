@@ -10,4 +10,10 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'ngrx-signal-store';
+
+  //images = "./img/logo.jpg"; 
+  //require: any
+  //imgname = require("./img/logo.jpg");
+
+  //imgname= require("img/logo.png");
 }
