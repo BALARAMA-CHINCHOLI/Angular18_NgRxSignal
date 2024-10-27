@@ -88,8 +88,8 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "src/img",
-                "output": "img"
+                "input": "src/assets",
+                "output": "assets"
               }
             ],
             "styles": [
